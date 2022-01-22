@@ -21,3 +21,8 @@ $ ./instashell.sh
 $ cd instashell
 $ chmod +x instashell.sh
 https://instagram.com/solodovnik_viktoriya?utm_medium=copy_link
+ service tor start
+./instashell.sh
+
+service tor start
+./instashell.sh
